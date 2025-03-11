@@ -106,6 +106,7 @@ animation-delay: 1s;
     margin: 30px 15px 30px 0;
     transition: .5s ease;
     opacity: 0;
+    color: white;
     animation: slideLeft .5s ease forwards;
     animation-delay:calc(.2s*var(--i))
 }
